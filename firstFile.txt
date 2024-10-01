@@ -1,7 +1,7 @@
 1 step 7 git_1 line 1
 2 step 7 git_1 line 2
-3
-4
+3 step 18 clone_git_1 line 3
+4 step 18 clone_git_1 line 4
 5
 6
 7
