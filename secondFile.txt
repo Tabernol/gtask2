@@ -1,5 +1,7 @@
 1 step 5 git_1 line 1
 2 step 5 git_1 line 2
+1 step 4 git_2 line 1
+2 step 4 git_2 line 2
 3
 4
 5
